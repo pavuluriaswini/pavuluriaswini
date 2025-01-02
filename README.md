@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a final-year Electronics and Communication Eng
 Programming Languages: Java, C++
 Frameworks: Spring Boot, Hibernate, Microservices
 Web Development: Java Full-Stack, HTML, CSS, JavaScript
-Tools & Platforms: Git, GitHub, Docker, Jenkins, AWS, IntelliJ IDEA
+Tools & Platforms: Git, IntelliJ IDEA
 Databases: SQL, MySQL, MongoDB
 Data Structures & Algorithms: Arrays, Linked Lists, HashMaps, Dynamic Programming, Recursion, Backtracking
-Version Control: Git
+
