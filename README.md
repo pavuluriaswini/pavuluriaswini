@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I'm a final-year Electronics and Communication Eng
 🌍 I’m open to exploring new job opportunities in the IT field, especially in companies like Microsoft, Amazon, and Google.
 🔧 My primary goal is to secure a high-paying job and financial stability through my technical skills.
 💼 Skills
-Programming Languages: Java, C++
-Frameworks: Spring Boot, Hibernate, Microservices
+Programming Languages: Java
+Frameworks: Spring Boot, Hibernate
 Web Development: Java Full-Stack, HTML, CSS, JavaScript
 Tools & Platforms: Git, IntelliJ IDEA
-Databases: SQL, MySQL, MongoDB
-Data Structures & Algorithms: Arrays, Linked Lists, HashMaps, Dynamic Programming, Recursion, Backtracking
+Databases: SQL, MongoDB
+
 
